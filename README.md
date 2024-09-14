@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on different projects."
 - 📫 How to reach me :
 -        https://www.linkedin.com/in/oussama-dougna-24940b2a1/
-- ⚡ Fun fact: We all gonna die.
+
 
 <!---
 oussamadougna/oussamadougna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
